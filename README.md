@@ -70,10 +70,12 @@ Shot Geometry (~85%): Angle and Distance dominate the model's decision-making. T
 
 Body Part & Technique (~15%): While factors like body part (e.g., headers typically having lower conversion rates than footed shots) and technique (volleys vs. normal shots) do refine the xG value, their impact is secondary to "where" the shot is taken from.
 
-Feature Importance
+# Feature Importance
 <img width="1018" height="545" alt="image" src="https://github.com/user-attachments/assets/e438b7c3-68be-46ba-bb99-83cebd9bd355" />
 
-Group Feature Importance
+
+
+# Group Feature Importance
 <img width="691" height="524" alt="image" src="https://github.com/user-attachments/assets/e1774b9d-b645-498c-baae-ac9c57e90b49" />
 
 
