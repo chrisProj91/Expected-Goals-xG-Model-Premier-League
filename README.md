@@ -53,6 +53,10 @@ Target variable:
 - Random Forest showed the best balance of discrimination and calibration.
 - Severe class imbalance (goals ≈ 10%) handled via probability-based evaluation.
 
+Distribution of predicted xG
+<img width="859" height="545" alt="image" src="https://github.com/user-attachments/assets/0dfacc20-1d09-417e-99d9-90c43db293b7" />
+
+
 ---
 
 ## 🎯 Calibration
@@ -65,6 +69,9 @@ Predicted probabilities were calibrated using **isotonic regression**.
 Calibration significantly improved:
 - Team-level xG totals
 - Player-level aggregation reliability
+
+Calibration Curve Comparison
+<img width="691" height="545" alt="image" src="https://github.com/user-attachments/assets/440f8347-64c1-451b-86c1-8159f24a166d" />
 
 ---
 
@@ -82,10 +89,19 @@ Calibration significantly improved:
 ---
 
 ## 📈 Visualizations
+
 - xG heatmaps on a full pitch
 - Team xG vs actual goals comparison
 - Calibration (reliability) curves
 - Feature importance plots
+
+xG Heatmap on Football Pitch
+<img width="1010" height="699" alt="image" src="https://github.com/user-attachments/assets/f9e0a0a3-dbd6-4dcb-935e-7a4221900cf2" />
+
+
+Actual Goals vs Predicted xG per Team
+<img width="1004" height="651" alt="image" src="https://github.com/user-attachments/assets/88c45f27-e71f-4f61-9bd1-f26bc2195211" />
+
 
 Examples are available in the `figures/` directory.
 
@@ -96,6 +112,10 @@ Examples are available in the `figures/` directory.
 - Centrality (angle) is as important as proximity (distance)
 - Headers and techniques refine but do not define xG
 - xG is reliable in aggregate, not for individual shot prediction
+
+Top 20 Players: Actual Goals vs Predicted xG
+<img width="1170" height="786" alt="image" src="https://github.com/user-attachments/assets/9973abf8-87a1-4c48-b1e2-0677678114a7" />
+
 
 ---
 
