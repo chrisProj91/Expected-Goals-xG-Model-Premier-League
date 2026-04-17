@@ -66,6 +66,13 @@ Predicted probabilities were calibrated using **isotonic regression**.
 <img width="2932" height="1512" alt="image" src="https://github.com/user-attachments/assets/38ea4208-795c-4aae-b4dd-f249d23e16ea" />
 
 
+<img width="1466" height="623" alt="image" src="https://github.com/user-attachments/assets/f301458a-92ae-4241-b30d-6271cd5304f8" />
+
+
+
+
+
+
 | Metric | Before | After |
 |------|--------|-------|
 | Mean xG | 0.0976 | 0.0991 |
@@ -75,7 +82,8 @@ Calibration significantly improved:
 - Player-level aggregation reliability
 
 ### Calibration Curve Comparison
-<img width="691" height="545" alt="image" src="https://github.com/user-attachments/assets/440f8347-64c1-451b-86c1-8159f24a166d" />
+<img width="1399" height="919" alt="image" src="https://github.com/user-attachments/assets/805f861b-40b3-4487-aa0f-07dad577bf54" />
+
 
 ---
 
