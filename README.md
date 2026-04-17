@@ -101,6 +101,9 @@ Body Part & Technique (~15%): While factors like body part (e.g., headers typica
 
 ## 📈 Visualizations
 
+<img width="2632" height="1753" alt="image" src="https://github.com/user-attachments/assets/87f7cf80-4208-4424-a8eb-354e622662d4" />
+
+
 - xG heatmaps on a full pitch
 - Team xG vs actual goals comparison
 - Calibration (reliability) curves
