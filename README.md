@@ -63,6 +63,9 @@ Target variable:
 ## 🎯 Calibration
 Predicted probabilities were calibrated using **isotonic regression**.
 
+<img width="2932" height="1512" alt="image" src="https://github.com/user-attachments/assets/38ea4208-795c-4aae-b4dd-f249d23e16ea" />
+
+
 | Metric | Before | After |
 |------|--------|-------|
 | Mean xG | 0.0976 | 0.0991 |
@@ -90,7 +93,13 @@ Calibration significantly improved:
 Body Part & Technique (~15%): While factors like body part (e.g., headers typically having lower conversion rates than footed shots) and technique (volleys vs. normal shots) do refine the xG value, their impact is secondary to "where" the shot is taken from.
 
 ### Feature Importance
+<img width="1155" height="655" alt="image" src="https://github.com/user-attachments/assets/d4b5e682-ad79-455c-96ec-5400dedf0e40" />
+
+<img width="1355" height="955" alt="image" src="https://github.com/user-attachments/assets/a8c91729-2912-4fc8-8e5e-1306812c42ec" />
+
 <img width="1018" height="545" alt="image" src="https://github.com/user-attachments/assets/e438b7c3-68be-46ba-bb99-83cebd9bd355" />
+
+<img width="1466" height="605" alt="image" src="https://github.com/user-attachments/assets/85f8c805-eaf2-48d3-8ebc-bcc878c76211" />
 
 
 
@@ -104,6 +113,7 @@ Body Part & Technique (~15%): While factors like body part (e.g., headers typica
 <img width="2632" height="1753" alt="image" src="https://github.com/user-attachments/assets/87f7cf80-4208-4424-a8eb-354e622662d4" />
 
 
+
 - xG heatmaps on a full pitch
 - Team xG vs actual goals comparison
 - Calibration (reliability) curves
@@ -111,6 +121,8 @@ Body Part & Technique (~15%): While factors like body part (e.g., headers typica
 
 ### xG Heatmap on Football Pitch
 <img width="1010" height="699" alt="image" src="https://github.com/user-attachments/assets/f9e0a0a3-dbd6-4dcb-935e-7a4221900cf2" />
+
+<img width="2332" height="1584" alt="image" src="https://github.com/user-attachments/assets/4f99c803-54dc-4490-b2cc-6d5e6ae026ff" />
 
 
 ### Actual Goals vs Predicted xG per Team
