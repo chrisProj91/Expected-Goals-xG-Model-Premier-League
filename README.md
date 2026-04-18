@@ -82,7 +82,8 @@ Calibration significantly improved:
 - Player-level aggregation reliability
 
 ### Calibration Curve Comparison
-<img width="1399" height="919" alt="image" src="https://github.com/user-attachments/assets/805f861b-40b3-4487-aa0f-07dad577bf54" />
+<img width="1399" height="919" alt="image" src="https://github.com/user-attachments/assets/dfaf1364-1019-4c6f-9632-7f058d79c73a" />
+
 
 
 ---
@@ -101,9 +102,11 @@ Calibration significantly improved:
 Body Part & Technique (~15%): While factors like body part (e.g., headers typically having lower conversion rates than footed shots) and technique (volleys vs. normal shots) do refine the xG value, their impact is secondary to "where" the shot is taken from.
 
 ### Feature Importance
-<img width="1155" height="655" alt="image" src="https://github.com/user-attachments/assets/d4b5e682-ad79-455c-96ec-5400dedf0e40" />
+<img width="1166" height="666" alt="image" src="https://github.com/user-attachments/assets/3785c189-deee-444b-88f3-6be427141b01" />
 
-<img width="1355" height="955" alt="image" src="https://github.com/user-attachments/assets/a8c91729-2912-4fc8-8e5e-1306812c42ec" />
+
+<img width="1366" height="966" alt="image" src="https://github.com/user-attachments/assets/e457f692-7f4d-4ef7-b77c-83b1376a9b58" />
+
 
 <img width="1018" height="545" alt="image" src="https://github.com/user-attachments/assets/e438b7c3-68be-46ba-bb99-83cebd9bd355" />
 
