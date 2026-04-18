@@ -53,8 +53,7 @@ Target variable:
 - Random Forest showed the best balance of discrimination and calibration.
 - Severe class imbalance (goals ≈ 10%) handled via probability-based evaluation.
 
-### Distribution of predicted xG
-<img width="859" height="545" alt="image" src="https://github.com/user-attachments/assets/0dfacc20-1d09-417e-99d9-90c43db293b7" />
+
 
 
 ---
@@ -108,7 +107,7 @@ Body Part & Technique (~15%): While factors like body part (e.g., headers typica
 <img width="1366" height="966" alt="image" src="https://github.com/user-attachments/assets/e457f692-7f4d-4ef7-b77c-83b1376a9b58" />
 
 
-<img width="1018" height="545" alt="image" src="https://github.com/user-attachments/assets/e438b7c3-68be-46ba-bb99-83cebd9bd355" />
+
 
 <img width="1466" height="605" alt="image" src="https://github.com/user-attachments/assets/85f8c805-eaf2-48d3-8ebc-bcc878c76211" />
 
@@ -137,7 +136,8 @@ Body Part & Technique (~15%): While factors like body part (e.g., headers typica
 
 
 ### Actual Goals vs Predicted xG per Team
-<img width="1004" height="651" alt="image" src="https://github.com/user-attachments/assets/88c45f27-e71f-4f61-9bd1-f26bc2195211" />
+<img width="1166" height="966" alt="image" src="https://github.com/user-attachments/assets/a69fab08-6df1-4fe9-9ab0-ae2bf77bd9cd" />
+
 
 
 Examples are available in the `figures/` directory.
@@ -151,7 +151,8 @@ Examples are available in the `figures/` directory.
 - xG is reliable in aggregate, not for individual shot prediction
 
 ### Top 20 Players: Actual Goals vs Predicted xG
-<img width="1170" height="786" alt="image" src="https://github.com/user-attachments/assets/9973abf8-87a1-4c48-b1e2-0677678114a7" />
+<img width="1167" height="966" alt="image" src="https://github.com/user-attachments/assets/303b65fb-6535-4436-bd3b-cf4d6210c686" />
+
 
 
 ---
